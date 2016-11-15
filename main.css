@@ -1,0 +1,24 @@
+body {
+  background-color: #c8c8c8;
+}
+h1 {
+  color :papayawhip;}
+.plain {
+    font-family: "Arial Black", Times, serif;
+    font-size: 26px;
+    text-align: center;
+    clear: left}
+.marginLeft {
+  margin-left: 10px;
+  background-color: red;
+  margin-right: 10px;
+  width: 200px;
+  height: 100px;
+  float: left;}
+  .marginLeft2 {
+    margin-left: 10px;
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    float:left;;
+  }
